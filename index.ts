@@ -1,0 +1,22 @@
+console.log("Hey Abu Hurairah, I have started learning TYPESCRIPT.");
+var username: string = "Zoahib";
+console.log(username);
+var num1: number = 10;
+var num2: number = 23;
+var num3: number = 21;
+var num4: number = 12;
+var num5: number = 9;
+var num6: number = 32;
+var num7: number = 12;
+var num8: number = 21;
+var num9: number = 32;
+var num10: number = 21;
+var addition: number = (num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num8 + num9 + num10);
+ console.log(addition);
+ var subtraction: number = (num2 - num1);
+ console.log(subtraction);
+ var multiply: number = (num1 * num2);
+ console.log(multiply);
+ var division: number = (num6 / num1);
+ console.log(division);
+
